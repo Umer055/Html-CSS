@@ -1,0 +1,35 @@
+* {
+  font-family: "Libre Baskerville", serif;
+}
+#navbar-header {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  padding: 12px;
+}
+
+#nav-div1 a:hover {
+  text-decoration: none;
+  color: black;
+}
+#our-menu {
+  padding: 10px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#chicken #beef-heading {
+  text-align: center;
+  padding-top: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: rgb(101, 151, 244);
+}
+#chicken {
+  background-color: #f1c96d;
+  margin: 30px;
+}
+#chicken p {
+  text-align: justify;
+  padding: 10px;
+}

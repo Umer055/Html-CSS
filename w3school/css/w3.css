@@ -1,0 +1,216 @@
+.login {
+  margin-right: -53px;
+  font-weight: bold;
+}
+
+.signin {
+  margin: 0px 0px 0px -32px;
+  background-color: rgb(209, 235, 218);
+  color: black;
+  border-radius: 25px;
+  font-weight: bold;
+}
+#button-signin:hower {
+  background-color: rgb(39, 157, 90);
+}
+
+.create_website {
+  background-color: rgb(255, 244, 146);
+  color: black;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.get_certified {
+  background-color: rgb(250, 177, 187);
+  color: black;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+.signup {
+  background-color: rgb(39, 157, 90);
+  color: white;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  font-weight: bold;
+}
+
+.signin .btn:hover {
+  background-color: rgb(39, 157, 90);
+}
+
+#rightnav-bold {
+  font-weight: bold;
+  font-size: large;
+}
+
+body {
+  background-color: #282a35 !important;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+#firsth1 {
+  color: white;
+  font-size: 60px;
+  /* margin-left: 515px; */
+  margin-top: 10%;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+}
+
+#sech1 {
+  color: pink;
+  /* margin-left: 509px; */
+  margin-top: 3%;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+
+#search {
+  /* margin-left: 413px; */
+  margin-top: 4%;
+  padding-top: 9px;
+  padding-right: 320px;
+  border-radius: 25px;
+}
+
+#div1-a {
+  /* margin-left: 549px; */
+  text-decoration: none;
+  font-size: 27px;
+  text-decoration: underline;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+#div1-a:hover {
+  color: rgb(11, 159, 11);
+}
+
+#html {
+  background-color: #d9eee1 !important ;
+}
+
+#thirdh1 {
+  font-size: 77px;
+  font-weight: 900;
+  /* margin-left: 275px; */
+  padding-top: 50px;
+}
+
+#firsth6 {
+  font-weight: 900;
+  /* margin-left: 241px; */
+  margin-top: 17px;
+}
+
+.html-btn {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 26px;
+  margin-bottom: 26px;
+  border-radius: 25px;
+}
+
+#video-tutorial {
+  background-color: rgb(255, 244, 146);
+  color: black;
+}
+#html-reference {
+  background-color: black;
+  color: white;
+}
+/* #html-group { */
+/* margin-left: 300px; */
+/* } */
+
+#html-img {
+  /* margin-left: 400px; */
+  width: 400px;
+}
+
+#css {
+  background-color: rgb(255, 244, 146);
+}
+
+#javascript {
+  background-color: #282a35;
+}
+
+#forthh1 {
+  font-size: 77px;
+  font-weight: 900;
+  /* margin-left: 275px; */
+  padding-top: 50px;
+  color: white;
+}
+#sech6 {
+  font-weight: 900;
+  /* margin-left: 241px; */
+  margin-top: 17px;
+  color: white;
+}
+#python {
+  background-color: rgb(240, 231, 228);
+}
+
+#all-div {
+  color: black;
+  padding-top: 90px;
+  padding-left: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  /* width: 100%; */
+}
+
+.divs {
+  padding: 56px;
+  border-radius: 25px;
+}
+
+#sql {
+  background-color: rgb(250, 177, 187);
+  width: 40%;
+  margin-right: 10%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+#php {
+  background-color: rgb(255, 244, 146);
+  width: 40%;
+  margin-bottom: 5%;
+}
+#jq {
+  background-color: rgb(240, 231, 228);
+  width: 40%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+}
+#java {
+  background-color: rgb(209, 235, 218);
+  width: 40%;
+  margin-bottom: 5%;
+}
+#cpp {
+  background-color: rgb(134, 203, 203);
+  width: 40%;
+  margin-right: 10%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+#boot {
+  background-color: rgb(225, 228, 230);
+  width: 40%;
+  margin-bottom: 5%;
+}
+
+.divs button {
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+}

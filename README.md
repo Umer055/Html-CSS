@@ -1,2 +1,2 @@
-# coursera-test
-this is the repository for my coursera web development tests
+# HTML CSS PROJECTS
+this is the repository for web development tasks
